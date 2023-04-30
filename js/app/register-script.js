@@ -16,6 +16,6 @@ function submit(event){
         user.inputAddress = inputAddress;
         user.inputAddress2 = inputAddress2;
     }
-    alert(user);
-    return false;
+    console.log(user);
+   
 }
