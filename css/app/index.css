@@ -15,3 +15,46 @@
     height: 400px;
     padding: 10px;
 }
+
+.container .row i{
+    font-size: 150px;
+    color: darkgrey;
+    
+}
+.icon-conatiner{
+    text-align: center;
+
+}
+
+.container .courseinfo-section {
+    display: flex;
+    flex-direction: row;
+    justify-content:space-evenly;
+    margin-top:30px;
+}
+
+.container .courseinfo-section .card{
+    width:200px;
+}
+
+.footer{
+    width:100%;
+    height: 70px;
+    background-color: rgb(197, 197, 197);
+    margin:0px;
+}
+
+.footer a{
+    
+}
+/* .container .footer-icon-area{
+    background-color: rgb(146, 165, 201);
+    color:black;
+    height:50px;
+}
+
+.container .lower-footer-area{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+} */

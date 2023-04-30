@@ -1,0 +1,49 @@
+{
+  "fruits":[
+    {
+      "name":"apple",
+      "id":1,
+      "color":"red",
+      "cost":120,
+      "unit":"KG",
+      "brand":"Fuji"
+    },
+    {
+      "name":"manogoes",
+      "id":2,
+      "color":"yellow",
+      "cost":70,
+      "unit":"KG",
+      "brand":"Mallika"
+    },  {
+      "name":"pineapple",
+      "id":3,
+      "color":"yellow-orange",
+      "cost":70,
+      "unit":"KG",
+      "brand":"Brazillian"
+    },  {
+      "name":"grapes",
+      "id":4,
+      "color":"violet",
+      "cost":80,
+      "unit":"KG",
+      "brand":"Bangalore grapes"
+    },  {
+      "name":"coconut",
+      "id":5,
+      "color":"brown",
+      "cost":30,
+      "unit":"per peice",
+      "brand":"KERA"
+    }
+  ],
+  "students":[
+    {
+      "name":"david",
+      "age":20,
+      "designation":"software developer",
+      "address":"india bangalore"
+    }
+  ]
+}

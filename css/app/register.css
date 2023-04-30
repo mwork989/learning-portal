@@ -1,0 +1,15 @@
+body{
+    margin:10px;
+}
+
+h4{
+    margin-top:10px;
+}
+
+.course-section{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    width:500px;
+    margin:30px;
+}
